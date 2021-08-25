@@ -1,2 +1,2 @@
 # kutu
-github.con
+github.com
